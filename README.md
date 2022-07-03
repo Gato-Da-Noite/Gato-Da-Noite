@@ -1,16 +1,23 @@
-### Hi there 👋
+## Aceita um café? ☕
 
-<!--
-**Gato-Da-Noite/Gato-Da-Noite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Gosto de desenvolvimento e quero me densenvolver muito nessa carreira.
 
-Here are some ideas to get you started:
+#### Contatos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzobottesini@gmail.com)
+[![EMAIL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo_felipe_of/)
+
+#### Habilidades
+<div style="display: inline_block; margin-top: -40px" <br>  
+  <img align="center" alt=" HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt=" CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt=" Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+#### Softwares favoritos 
+<div style="display: inline_block; margin-top: -40px" <br>  
+  <img align="center" alt=" LINUX " src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt=" ANDROID " src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img align="center" alt=" BRAVE " src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+  <img align="center" alt=" STEAM " src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</div>
