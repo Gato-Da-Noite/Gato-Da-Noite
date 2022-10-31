@@ -1,6 +1,6 @@
 ## Aceita um café? ☕
 
-<br>Gosto de desenvolvimento e quero me densenvolver muito nessa carreira.
+<br> Apaixonado por tecnologia desde novo, tenho estudado Front-End e implementando as ferramentas em paginas web.
 
 #### Contatos
 
